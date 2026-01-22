@@ -10,7 +10,7 @@
 - 🌱 I’m learning **technology / framework**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Python, JavaScript, React, etc.**
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **jobayerhassan788@gmail.com**
 - ⚡ Fun fact: **Something interesting about you**
 
 ## 🐍 Contribution Snake
