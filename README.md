@@ -1,5 +1,5 @@
-# jobayerhossain
-# Hi 👋, I'm jobayerhossain
+# Jobayer Hassan
+# Hi 👋, I'm JObayer Hassan
 
 💻 Software engineer | 🌱 Learning Something New Every Day | 🚀 Building Cool Stuff
 
