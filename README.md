@@ -1,7 +1,7 @@
 # jobayerhossain
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm jobayerhossain
 
-💻 Software Developer | 🌱 Learning Something New Every Day | 🚀 Building Cool Stuff
+💻 Software engineer | 🌱 Learning Something New Every Day | 🚀 Building Cool Stuff
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 🔗 Connect With Me
 - 🌐 Portfolio: https://yourwebsite.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 💼 LinkedIn:  
 - 🐦 Twitter: https://twitter.com/yourhandle  
 
 ---
