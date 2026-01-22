@@ -13,6 +13,9 @@
 - 📫 Reach me at **your@email.com**
 - ⚡ Fun fact: **Something interesting about you**
 
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🛠️ Tech Stack
